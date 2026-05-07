@@ -99,7 +99,6 @@ Si querés generar el `.exe` por tu cuenta:
 2. Instalá las dependencias:
    ```bash
    pip install pyinstaller pystray pillow
-```
 
 1. Ejecutá PyInstaller:
    ```bash
