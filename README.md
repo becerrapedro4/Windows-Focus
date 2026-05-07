@@ -1,5 +1,4 @@
 
-```markdown
 # Window Focus Helper
 
 **Window Focus Helper** es una herramienta liviana que se ejecuta en la bandeja del sistema (systray) y permite **traer al frente cualquier ventana** de Windows mediante una simple URL HTTP.  
