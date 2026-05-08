@@ -1,5 +1,5 @@
 
-# Window Focus Helper
+# Window Focus
 
 **Window Focus Helper** es una herramienta liviana que se ejecuta en la bandeja del sistema (systray) y permite **traer al frente cualquier ventana** de Windows mediante una simple URL HTTP.  
 Está pensada especialmente para integrarse con **Companion** (Elgato Stream Deck, Bitfocus Companion, etc.), aunque puede usarse con cualquier software que pueda hacer peticiones HTTP GET.
