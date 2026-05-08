@@ -68,7 +68,7 @@ Ejemplos:
 
 La barra lateral derecha de la interfaz te muestra:
 - El **título completo** de la ventana seleccionada.
-- Un campo **"Buscar por"** editable, donde podés acortar el texto (ejemplo: `Resolume Arena` en vez de `Resolume Arena - FEHGRA (1280x768, 8bpc)`).
+- Un campo **"Buscar por"** editable, donde podés acortar el texto (ejemplo: `Resolume Arena` en vez de `Resolume Arena - Composition (1920x1080, 8bpc)`).
 - La **URL generada** que se actualiza automáticamente.
 
 Pegá esa URL en Companion o en cualquier herramienta que pueda hacer `GET`.
